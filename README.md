@@ -7,6 +7,9 @@
 
 <hr/>
 
+<h2 align="center">Technical Skills</h1>
+<br/>
+
 ![](https://img.shields.io/badge/CI/CD-Github_Actions-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-ArgoCD-informational?style=flat&logo=argo&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
