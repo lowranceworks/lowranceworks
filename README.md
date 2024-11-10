@@ -45,15 +45,10 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=lowranceworks&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## 🔥 Streak Stats
 
 <p align="center">
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lowranceworks&theme=tokyonight_duo&hide_border=true" alt="lowranceworks" />
-  <p align="center"> Stay hungry, Stay foolish 🔥 </p>
 </p>
 
 ## ⚡ Recent GitHub Activity
