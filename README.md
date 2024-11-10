@@ -60,7 +60,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lowranceworks&theme=tokyonight_duo&hide_border=true" alt="lowranceworks" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lowranceworks&theme=catppuccin-mocha&hide_border=true" alt="lowranceworks" />
 </p>
 
 ## ⚡ Recent GitHub Activity
