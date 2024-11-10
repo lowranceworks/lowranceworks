@@ -45,19 +45,19 @@
 
 ### Dotfiles
 
-.
+Architected modular dotfiles management system featuring declarative configurations for modern development tools including Neovim, Tmux, and multiple shells (Fish, Nushell). Leveraged Nix and Nix-Darwin for reproducible environment setup, ensuring consistent development experience across any MacBook.
 
 ### Portfolio Website
 
-.
+Engineered an immersive 3D portfolio website using Three.js and TypeScript, featuring interactive animations and responsive design.
 
 ### MacBook Configuration
 
-.
+.Developed comprehensive MacBook configuration automation using Ansible, enabling rapid workstation setup and disaster recovery with 50+ software configurations, dotfiles, and OS preferences. Reduced new machine setup time from days to hours while ensuring consistent development environments.
 
 ### Geo-Redundant Storage Infrastructure with TrueNAS
 
-.
+Engineered fault-tolerant data backup infrastructure using TrueNAS, implementing ZFS replication between geographically distributed sites for disaster recovery. Enabled secure cross-site data synchronization with end-to-end encryption.
 
 ## Certificates
 
