@@ -43,15 +43,86 @@
 
 ## Personal Projects
 
+### Dotfiles
+
+.
+
+### Portfolio Website
+
+.
+
+### MacBook Configuration
+
+.
+
+### Geo-Redundant Storage Infrastructure with TrueNAS
+
 .
 
 ## Certificates
 
-.
+### AWS Certified Solutions Architect Associate
+
+10/2019 - 10/2022
+
+- Credential ID: `7D1M0BE1MFVEQFSL`
 
 ## Interests
 
-.
+        <h4>🥋 Brazilian Jiu Jitsu</h3>
+        <h4>⌨️ Vim</h3>
+        <h4>📝 Neovim</h3>
+        <h4>🖥️ Tmux</h3>
+        <h4>🐟 Fish Shell</h3>
+
+### .
+
+### .
+
+### .
+
+### .
+
+### .
+
+### .
+
+## Recomedations
+
+      <section class="left" id="recommendations">
+        <h2>🤔 Recommendations</h2>
+        <p>
+          <b>Paula Morton · Digital Strategy Director at Avaya</b>
+        </p>
+        Josh was a great asset to his team during the time we worked together at CTIntegrations and Avaya. Navigating unfamiliar
+        territory and finding our own way, Josh was able to successfully deploy resources in GCP, using a variety of both familiar
+        and new dev deployment technologies. It's clear he has a real passion for forward thinking best practices in DevOps and
+        was a thought leader on the team, when it came to how we would evolve our technology to true CI/CD processes and tech.
+        When faced with a challenge or problem to solve, Josh doesn't back down or give up easily, and stays focused on the prize
+        until he is successful. He is a real team player that his peers can count on to deliver.
+        <p>
+        </p>
+
+        <p>
+          <b>Ronny Flaatten · Chief Technical Officer at CTIntegrations (Avaya company)</b>
+        </p>
+        <p>
+          Josh is an incredibly talented engineer, the speed at which he not only learns but master new technologies is
+          impressive. His work ethic is outstanding, and he always delivers! We were in a transformation as a software
+          company and required the team to wear many hats and be able to adapt to new technologies quickly; Josh was an
+          essential part of this transformation, and he never wavered.
+        </p>
+
+        <p>
+          <b>Jeff Hunt · Engineering Manager at Arrive Logistics</b>
+        </p>
+        <p>
+          I can't say enough good things about Josh. He's driven, positive and committed. He brightens up a room when he
+          walks in and stays focused approaching any situation or problem. He keeps an open mind when troubleshooting and
+          tries to look at things from different angles when stuck, which leads to unique and inventive solutions. It was
+          an absolute pleasure working with Josh and any company would be improved having him on their payroll.
+        </p>
+      </section>
 
 ## 🏆 GitHub Trophies
 
