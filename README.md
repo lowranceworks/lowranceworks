@@ -63,9 +63,7 @@
 
 ### AWS Certified Solutions Architect Associate
 
-10/2019 - 10/2022
-
-- Credential ID: `7D1M0BE1MFVEQFSL`
+- [Verify Credential ID: 7D1M0BE1MFVEQFSL](https://cp.certmetrics.com/amazon/en/public/verify/credential/7D1M0BE1MFVEQFSL)
 
 ## Interests
 
