@@ -7,7 +7,7 @@
 
 <hr/>
 
-# Technical Skills
+## Technical Skills
 
 ![](https://img.shields.io/badge/CI/CD-Github_Actions-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-ArgoCD-informational?style=flat&logo=argo&logoColor=white&color=3bac3a)
@@ -41,7 +41,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=ArgoCD+%7C%7C+Github+Actions+%7C%7C+Jenkins;+Kustomize+%7C%7C+Ansible+%7C%7C+Nix;GCP+%7C%7C+AWS+%7C%7C+Azure;Docker+%7C%7C+Podman;Kubernetes;Helm;Terraform+%7C%7C+Crossplane;Go+%7C%7C+Python;Datadog;Git;MacOS+%7C%7C+Linux;Fish+%7C%7C+Bash&center=true&width=800&height=45" alt="lowranceworks">
 </p>
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=lowranceworks&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
