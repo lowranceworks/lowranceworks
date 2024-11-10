@@ -1,6 +1,9 @@
 <h1 align="center">Joshua Lowrance</h1>
 <br/>
 
+<h2 align="center">DevOps Engineer</h1>
+<br/>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=DevOps+Engineer+with+5%2B+years+of+expertise;Empowering+developers+through+automated+workflows;Streamlining+deployments+with+DevOps%2FGitOps;Building+scalable+infrastructure+as+code;Reducing+deployment+times+by+70%25&center=true&width=800&height=90" alt="lowranceworks">
 </p>
