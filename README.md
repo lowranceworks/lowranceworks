@@ -34,7 +34,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=3bac3a)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=CI/CD+pipeline+development;Configuration+management;Cloud;Containerization;Container+Orchestration;K8s+Package+Manager;Infrastructure+as+Code;Scripting+and+Tooling+development;Monitoring+and+Logging;Version+control+system;Operating+System;Shell;&center=true&width=800&height=45" alt="lowranceworks">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=CI/CD+pipeline+development;Configuration+Management;Cloud;Containerization;Container+Orchestration;K8s+Package+Manager;Infrastructure+as+Code;Scripting+and+Tooling+development;Monitoring+and+Logging;Version+control+system;Operating+System;Shell;&center=true&width=800&height=45" alt="lowranceworks">
 </p>
 
 <p align="center">
