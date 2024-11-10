@@ -55,7 +55,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=lowranceworks&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=lowranceworks&theme=catppuccin-mocha&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🔥 Streak Stats
 
@@ -72,4 +72,4 @@
 ## 📊 Github Stats
 
 <img align="left" alt="LowranceWork's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lowranceworks&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
-<img align="right" alt="LowranceWork's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowranceworks&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
+<img align="right" alt="LowranceWork's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowranceworks&layout=compact&langs_count=8&theme=catppuccin-mocha&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
