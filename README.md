@@ -1,37 +1,43 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hello, Everyone!</h1>
- <a href="https://github.com/GruDev325/GruDev325/"> </a>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Joshua Lowrance</h1>
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=DevOps Engineer;ArgoCD/Kuberenetes+%7C%7C+React+%7C%7C+Vue+%7C%7C+Typescript+%7C%7C+Web3+%7C%7C+Node;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="lowranceworks">
+<img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=DevOps+Engineer+with+5%2B+years+of+expertise;Empowering+developers+through+automated+workflows;Streamlining+deployments+with+DevOps%2FGitOps;Building+scalable+infrastructure+as+code;Reducing+deployment+times+by+70%25&center=true&width=800&height=90" alt="lowranceworks">
 </p>
+
 <hr/>
 
-<img align="right" alt="GIF" src="https://github.com/GruDev325/GruDev325/blob/main/image/grudev325.gif" width="450" height="270" />
+![](https://img.shields.io/badge/CI/CD-Github_Actions-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/CI/CD-ArgoCD-informational?style=flat&logo=argo&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Configuration%20Management-Kustomize-informational?style=flat&logo=kubernetes&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Configuration%20Management-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Configuration%20Management-Nix-informational?style=flat&logo=nixos&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Containerization-Podman-informational?style=flat&logo=podman&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Container%20Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/K8s%20Package%20Manager-Helm-informational?style=flat&logo=helm&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Infrastructure%20as%20Code-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Infrastructure%20as%20Code-Crossplane-informational?style=flat&logo=cncf&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Scripting%20Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Scripting%20Language-Go-informational?style=flat&logo=go&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Monitoring%20and%20Logging-Datadog-informational?style=flat&logo=datadog&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Shell-Fish-informational?style=flat&logo=fish&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=3bac3a)
 
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Ruby_On_Rails-informational?style=flat&logo=ruby&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=CI/CD+pipeline+development;Configuration+management;Cloud;Containerization;Container+Orchestration;K8s+Package+Manager;Infrastructure+as+Code;Scripting+and+Tooling+development;Monitoring+and+Logging;Version+control+system;Operating+System;Shell;&center=true&width=800&height=45" alt="lowranceworks">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=ArgoCD+%7C%7C+Github+Actions+%7C%7C+Jenkins;+Kustomize+%7C%7C+Ansible+%7C%7C+Nix;GCP+%7C%7C+AWS+%7C%7C+Azure;Docker+%7C%7C+Podman;Kubernetes;Helm;Terraform+%7C%7C+Crossplane;Go+%7C%7C+Python;Datadog;Git;MacOS+%7C%7C+Linux;Fish+%7C%7C+Bash&center=true&width=800&height=45" alt="lowranceworks">
+</p>
 
 # 🏆 GitHub Trophies
 
@@ -51,7 +57,7 @@
 ## ⚡ Recent GitHub Activity
 
 <br/>
- <img alt="lowranceworks's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lowranceworks&custom_title=LowranceWork's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+<img alt="lowranceworks's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lowranceworks&custom_title=LowranceWork's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 <br/>
 
 ## 📊 Github Stats
