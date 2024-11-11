@@ -43,8 +43,8 @@
 
   <summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/lowranceworks">
-   <img height="155em" src="https://raw.githubusercontent.com/lowranceworks/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Joshua Lowrance github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/lowranceworks/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Joshua Lowrance github stats" />
+   <img height="155em" src="https://raw.githubusercontent.com/lowranceworks/github-profile-summary-cards/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Joshua Lowrance github stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/lowranceworks/github-profile-summary-cards/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Joshua Lowrance github stats" />
 <br>
 
 ## Personal Projects
