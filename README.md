@@ -120,8 +120,6 @@ Engineered fault-tolerant data backup infrastructure using TrueNAS, implementing
 
 ### .
 
-## Recomedations
-
   <section class="left" id="recommendations">
     <h2>🤔 Recommendations</h2>
     <p>
