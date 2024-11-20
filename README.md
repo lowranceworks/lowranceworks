@@ -137,9 +137,8 @@ Engineered fault-tolerant data backup infrastructure using TrueNAS, implementing
 
 ## ⚡ Recent GitHub Activity
 
-<br/>
-<img alt="lowranceworks's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lowranceworks&custom_title=LowranceWork's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
-<br/>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 📊 Github Stats
 
