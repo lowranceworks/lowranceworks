@@ -9,14 +9,6 @@
 
 <h2>💻 Technical Skills</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=CI/CD+pipeline+development;Configuration+Management;Cloud;Containerization;Container+Orchestration;K8s+Package+Manager;Infrastructure+as+Code;Scripting+and+Tooling+development;Monitoring+and+Logging;Version+control+system;Operating+System;Shell;&center=true&width=800&height=45" alt="lowranceworks">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=ArgoCD+%7C%7C+Github+Actions+%7C%7C+Jenkins;+Kustomize+%7C%7C+Ansible+%7C%7C+Nix;GCP+%7C%7C+AWS+%7C%7C+Azure;Docker+%7C%7C+Podman;Kubernetes;Helm;Terraform+%7C%7C+Crossplane;Go+%7C%7C+Python;Datadog;Git;MacOS+%7C%7C+Linux;Fish+%7C%7C+Bash&center=true&width=800&height=45" alt="lowranceworks">
-</p>
-
 <h3>☁️ Cloud Platforms</h3>
 <div class="skill-badges">
   <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&color=3bac3a" alt="AWS">
