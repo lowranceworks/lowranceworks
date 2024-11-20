@@ -102,26 +102,15 @@ Engineered fault-tolerant data backup infrastructure using TrueNAS, implementing
 
 ## Interests
 
-        <h4>🥋 Brazilian Jiu Jitsu</h3>
-        <h4>⌨️ Vim</h3>
-        <h4>📝 Neovim</h3>
-        <h4>🖥️ Tmux</h3>
-        <h4>🐟 Fish Shell</h3>
+  <h4>🥋 Brazilian Jiu Jitsu</h3>
+  <h4>⌨️ Vim</h3>
+  <h4>📝 Neovim</h3>
+  <h4>🖥️ Tmux</h3>
+  <h4>🐟 Fish Shell</h3>
 
-### .
-
-### .
-
-### .
-
-### .
-
-### .
-
-### .
+## 🤔 Recommendations
 
   <section class="left" id="recommendations">
-    <h2>🤔 Recommendations</h2>
     <p>
       <b>Paula Morton · Digital Strategy Director at Avaya</b>
     </p>
@@ -133,17 +122,14 @@ Engineered fault-tolerant data backup infrastructure using TrueNAS, implementing
     until he is successful. He is a real team player that his peers can count on to deliver.
     <p>
     </p>
-
     <p>
-    <b>Ronny Flaatten · Chief Technical Officer at CTIntegrations (Avaya company)</b>
+      <b>Ronny Flaatten · Chief Technical Officer at CTIntegrations</b>
     </p>
-    <p>
     Josh is an incredibly talented engineer, the speed at which he not only learns but master new technologies is
     impressive. His work ethic is outstanding, and he always delivers! We were in a transformation as a software
     company and required the team to wear many hats and be able to adapt to new technologies quickly; Josh was an
     essential part of this transformation, and he never wavered.
     </p>
-
     <p>
     <b>Jeff Hunt · Engineering Manager at Arrive Logistics</b>
     </p>
@@ -153,7 +139,6 @@ Engineered fault-tolerant data backup infrastructure using TrueNAS, implementing
     tries to look at things from different angles when stuck, which leads to unique and inventive solutions. It was
     an absolute pleasure working with Josh and any company would be improved having him on their payroll.
     </p>
-
   </section>
 
 ## 🏆 GitHub Trophies
