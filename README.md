@@ -140,6 +140,12 @@ Engineered fault-tolerant data backup infrastructure using TrueNAS, implementing
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+## 📈 Contribution Graph
+
+<br/>
+<img alt="lowranceworks's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lowranceworks&custom_title=LowranceWork's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+<br/>
+
 ## 📊 Github Stats
 
 <img align="left" alt="LowranceWork's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lowranceworks&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
