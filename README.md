@@ -64,19 +64,19 @@
 
 ## Personal Projects
 
-### Dotfiles
+### [Dotfiles](https://github.com/lowranceworks/dotfiles)
 
 Architected modular dotfiles management system featuring declarative configurations for modern development tools including Neovim, Tmux, and multiple shells (Fish, Nushell). Leveraged Nix and Nix-Darwin for reproducible environment setup, ensuring consistent development experience across any MacBook.
 
-### Portfolio Website
+### [Portfolio Website](https://lowranceworks.github.io/portfolio/)
 
 Engineered an immersive 3D portfolio website using Three.js and TypeScript, featuring interactive animations and responsive design.
 
-### MacBook Configuration
+### [MacBook Configuration](https://github.com/lowranceworks/macbook-config)
 
-.Developed comprehensive MacBook configuration automation using Ansible, enabling rapid workstation setup and disaster recovery with 50+ software configurations, dotfiles, and OS preferences. Reduced new machine setup time from days to hours while ensuring consistent development environments.
+Developed comprehensive MacBook configuration automation using Ansible, enabling rapid workstation setup and disaster recovery with 50+ software configurations, dotfiles, and OS preferences. Reduced new machine setup time from days to hours while ensuring consistent development environments.
 
-### Geo-Redundant Storage Infrastructure with TrueNAS
+### [Geo-Redundant Storage Infrastructure](https://www.truenas.com/truenas-scale/)
 
 Engineered fault-tolerant data backup infrastructure using TrueNAS, implementing ZFS replication between geographically distributed sites for disaster recovery. Enabled secure cross-site data synchronization with end-to-end encryption.
 
@@ -119,34 +119,9 @@ Engineered fault-tolerant data backup infrastructure using TrueNAS, implementing
     </p>
   </section>
 
-  <summary><b>⚙️ GitHub Analytics</b></summary>
+## ⚙️ Github Analytics
+
 <a href="https://github.com/lowranceworks">
    <img height="155em" src="https://raw.githubusercontent.com/lowranceworks/github-profile-summary-cards/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Joshua Lowrance github stats" />
     <img height="155em" src="https://raw.githubusercontent.com/lowranceworks/github-profile-summary-cards/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Joshua Lowrance github stats" />
 <br>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=lowranceworks&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 🔥 Streak Stats
-
-<p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lowranceworks&theme=catppuccin-mocha&hide_border=true" alt="lowranceworks" />
-</p>
-
-## ⚡ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 📈 Contribution Graph
-
-<br/>
-<img alt="lowranceworks's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lowranceworks&custom_title=LowranceWork's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
-<br/>
-
-## 📊 Github Stats
-
-<img align="left" alt="LowranceWork's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lowranceworks&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
-<img align="right" alt="LowranceWork's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowranceworks&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
